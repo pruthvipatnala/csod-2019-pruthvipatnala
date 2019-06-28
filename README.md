@@ -1,2 +1,3 @@
 # csod-2019-pruthvipatnala
-This is your CSOD repository
+
+Visit : https://criodo.github.io/csod-2019-pruthvipatnala/
